@@ -259,11 +259,13 @@ Tecnologías encontradas que a mi parecer tienen más relevancia y por las que p
 
 Para recaudar toda la información posible sobre los empleados he realizado una búsqueda exhaustiva en **Linkedin**, he utilizado la extensión **ClearBit Connect** para obtener más información y la herramienta **hunter.io** para sacar correos electrónicos de los empleados. Como en la empresa hay más de 1000 empleados he decido poner los cargos más importantes de la misma:
 
+---
+
 #### Director general
 
-**Nombre:** Rafael Fuertes
+- **Nombre:** Rafael Fuertes
 
-**Localización:** Murcia, España
+- **Localización:** Murcia, España
 
 ---
 
