@@ -1,0 +1,85 @@
+[92melpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mscen17.elpozo.com[0m[94m (FQDN)[0m
+[92melpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mscen15.elpozo.com[0m[94m (FQDN)[0m
+[92melpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mscen17.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.76[0m[94m (IPAddress)[0m
+[92magentes.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mwebext.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.65[0m[94m (IPAddress)[0m
+[92mseleccion.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92m195.57.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92m195.57.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m195.57.134.65[0m[94m (IPAddress)[0m
+[92m195.57.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m195.57.134.76[0m[94m (IPAddress)[0m
+[92m3352[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mTELEFONICA_DE_ESPANA, ES[0m[94m (RIROrganization)[0m
+[92m3352[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m195.57.0.0/16[0m[94m (Netblock)[0m
+[92mboletines.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92melpozo.ipzmarketing.com[0m[94m (FQDN)[0m
+[92mblog.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92m4739769.group19.sites.hubspot.net[0m[94m (FQDN)[0m
+[92mempanados.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m217.182.28.211[0m[94m (IPAddress)[0m
+[92mbienstar.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mbienstar2.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m35.214.236.46[0m[94m (IPAddress)[0m
+[92m217.182.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m217.182.28.211[0m[94m (IPAddress)[0m
+[92m160.153.128.0/19[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m160.153.129.232[0m[94m (IPAddress)[0m
+[92m35.214.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m35.214.236.46[0m[94m (IPAddress)[0m
+[92m15169[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mGOOGLE - Google LLC[0m[94m (RIROrganization)[0m
+[92m15169[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m35.214.0.0/16[0m[94m (Netblock)[0m
+[92m16276[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mOVH[0m[94m (RIROrganization)[0m
+[92m16276[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m217.182.0.0/16[0m[94m (Netblock)[0m
+[92m21501[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mGODADDY-AMS[0m[94m (RIROrganization)[0m
+[92m21501[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m160.153.128.0/19[0m[94m (Netblock)[0m
+[92mchorizo.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mpromo.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m128.199.49.161[0m[94m (IPAddress)[0m
+[92mac.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.68[0m[94m (IPAddress)[0m
+[92mwww.ruta1954.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m160.153.129.232[0m[94m (IPAddress)[0m
+[92mwww.promo1954.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m51.145.26.96[0m[94m (IPAddress)[0m
+[92m195.57.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m195.57.134.68[0m[94m (IPAddress)[0m
+[92m128.199.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m128.199.49.161[0m[94m (IPAddress)[0m
+[92m3352[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mAS3352 - TELEFONICA DE ESPANA S.A.U.[0m[94m (RIROrganization)[0m
+[92m14061[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mDIGITALOCEAN-ASN - DigitalOcean, LLC[0m[94m (RIROrganization)[0m
+[92m14061[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m128.199.0.0/16[0m[94m (Netblock)[0m
+[92m51.144.0.0/15[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m51.145.26.96[0m[94m (IPAddress)[0m
+[92mtapas.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mcurly-reindeer-4boxz8q0ocnw9hhjrbw3iq5e.herokudns.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m54.216.252.255[0m[94m (IPAddress)[0m
+[92mcurly-reindeer-4boxz8q0ocnw9hhjrbw3iq5e.herokudns.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m108.128.72.146[0m[94m (IPAddress)[0m
+[92mcurly-reindeer-4boxz8q0ocnw9hhjrbw3iq5e.herokudns.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m54.73.26.109[0m[94m (IPAddress)[0m
+[92mautodiscover.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mautodiscover.outlook.com[0m[94m (FQDN)[0m
+[92mwww.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mcorreo.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.44[0m[94m (IPAddress)[0m
+[92m195.57.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m195.57.134.44[0m[94m (IPAddress)[0m
+[92m54.64.0.0/12[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m54.73.26.109[0m[94m (IPAddress)[0m
+[92m54.216.0.0/15[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m54.216.252.255[0m[94m (IPAddress)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mAMAZON-02 - Amazon.com, Inc.[0m[94m (RIROrganization)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m108.128.0.0/13[0m[94m (Netblock)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m54.64.0.0/12[0m[94m (Netblock)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m54.216.0.0/15[0m[94m (Netblock)[0m
+[92melmapabienstar.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m185.2.4.25[0m[94m (IPAddress)[0m
+[92mwww.china.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m103.254.208.249[0m[94m (IPAddress)[0m
+[92m103.254.208.0/22[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m103.254.208.249[0m[94m (IPAddress)[0m
+[92m185.2.4.0/22[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m185.2.4.25[0m[94m (IPAddress)[0m
+[92m133380[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mPACHOST-AS Pacificnet Hosting Ltd[0m[94m (RIROrganization)[0m
+[92m133380[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m103.254.208.0/22[0m[94m (Netblock)[0m
+[92m203461[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mREGISTER_UK-AS[0m[94m (RIROrganization)[0m
+[92m203461[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m185.2.4.0/22[0m[94m (Netblock)[0m
+[92mwww.bienstar.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mmail.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.65[0m[94m (IPAddress)[0m
+[92mautodiscover.outlook.com[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92matod-g2.tm-4.office.com[0m[94m (FQDN)[0m
+[92mpromo1954.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m51.145.26.96[0m[94m (IPAddress)[0m
+[92mlegado.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92msrv.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mjp.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mgrupofuertes.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mpromobienstar.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m128.199.49.161[0m[94m (IPAddress)[0m
+[92mcalledemisabuelos.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.66[0m[94m (IPAddress)[0m
+[92mscen15.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m195.57.134.74[0m[94m (IPAddress)[0m
+[92m195.57.0.0/16[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m195.57.134.74[0m[94m (IPAddress)[0m
+[92matod-g2.tm-4.office.com[0m[94m (FQDN)[0m [97m-->[0m [95mcname_record[0m [97m-->[0m [92mautod.ms-acdc-autod.office.com[0m[94m (FQDN)[0m
+[92mchina.elpozo.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m103.254.208.249[0m[94m (IPAddress)[0m
+[92mautod.ms-acdc-autod.office.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.98.227.232[0m[94m (IPAddress)[0m
+[92mautod.ms-acdc-autod.office.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.97.233.56[0m[94m (IPAddress)[0m
+[92mautod.ms-acdc-autod.office.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m52.98.241.8[0m[94m (IPAddress)[0m
+[92mautod.ms-acdc-autod.office.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m40.99.217.120[0m[94m (IPAddress)[0m
+[92m40.96.0.0/13[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m40.99.217.120[0m[94m (IPAddress)[0m
+[92m52.96.0.0/14[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m52.98.227.232[0m[94m (IPAddress)[0m
+[92m52.96.0.0/14[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m52.97.233.56[0m[94m (IPAddress)[0m
+[92m52.96.0.0/14[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m52.98.241.8[0m[94m (IPAddress)[0m
+[92m8075[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mMICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation[0m[94m (RIROrganization)[0m
+[92m8075[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m51.144.0.0/15[0m[94m (Netblock)[0m
+[92m8075[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m40.96.0.0/13[0m[94m (Netblock)[0m
+[92m8075[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m52.96.0.0/14[0m[94m (Netblock)[0m
