@@ -191,7 +191,7 @@ Como la salida generada por el comando es demasiado grande he decido exportarla 
 ```
 amass enum -passive -d elpozo.com -o resultados_amass.csv
 ```
-Estos resultados los he subido al mismo repositorio de GitHub: [enlace]([https://crt.sh/?q=elpozo.com](https://github.com/rladgar/Hacking-etico/blob/main/A08-MapaDNS/Datos/resultados_amass.csv))
+Estos resultados los he subido al mismo repositorio de GitHub: [enlace]((https://github.com/rladgar/Hacking-etico/blob/main/A08-MapaDNS/Datos/resultados_amass.csv))
 
 
 ## 5. Información Adicional
